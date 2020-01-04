@@ -86,7 +86,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "416 S. W. Mudd Building, 500 West 120th Street", city = "New York", region = "NY", postcode = "10023", country = "United States", country_code = "US"}
+address = {street = "425 S. W. Mudd Building, 500 West 120th Street", city = "New York", region = "NY", postcode = "10023", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
