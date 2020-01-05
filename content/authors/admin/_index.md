@@ -70,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Under construction.
+I am a postdoctoral research scientist at the Columbia University Data Science Institute,  working with David Blei. My research interests include approximate statistical inference, causality and artificial intelligence.
+
+I received my PhD in Electrical Engineering in Dec. 2018 from Linköping University, advised by Fredrik Lindsten and Thomas Schön. During my PhD studies I visited David Blei at Columbia University, as a Fulbright Visiting Student Researcher, and Frank Wood at the University of Oxford. 
