@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include approximate statistical inference, causality and artificial intelligence.
 
-interests:
-- Machine Learning
-- Computational Statistics
-- Automatic Control
+#interests:
+#- Machine Learning
+#- Computational Statistics
+#- Automatic Control
 
 education:
   courses:
