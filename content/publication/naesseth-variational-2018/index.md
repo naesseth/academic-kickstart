@@ -5,7 +5,7 @@ title: Variational Sequential Monte Carlo
 subtitle: ''
 summary: ''
 authors:
-- Christian Naesseth
+- Christian A. Naesseth
 - Scott Linderman
 - Rajesh Ranganath
 - David Blei
@@ -33,9 +33,7 @@ projects: []
 publishDate: '2020-12-19T17:34:21.098459Z'
 publication_types:
 - '1'
-abstract: Many recent advances in large scale probabilistic inference rely on variational
-  methods. The success of variational approaches depends on (i) formulating a flexible
-  parametric family of distributio...
+abstract: 'Many recent advances in large scale probabilistic inference rely on variational methods. The success of variational approaches depends on (i) formulating a flexible parametric family of distributions, and (ii) optimizing the parameters to find the member of this family that most closely approximates the exact posterior. In this paper we present a new approximating family of distributions, the variational sequential Monte Carlo (VSMC) family, and show how to optimize it in variational inference. VSMC melds variational inference (VI) and sequential Monte Carlo (SMC), providing practitioners with flexible, accurate, and powerful Bayesian inference. The VSMC family is a variational family that can approximate the posterior arbitrarily well, while still allowing for efficient optimization of its parameters. We demonstrate its utility on state space models, stochastic volatility models for financial data, and deep Markov models of brain neural circuits.'
 publication: '*International Conference on Artificial Intelligence and Statistics*'
 url_pdf: http://proceedings.mlr.press/v84/naesseth18a.html
 ---

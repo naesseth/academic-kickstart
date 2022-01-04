@@ -5,9 +5,9 @@ title: High-Dimensional Filtering Using Nested Sequential Monte Carlo
 subtitle: ''
 summary: ''
 authors:
-- C. A. Naesseth
-- F. Lindsten
-- T. B. Schön
+- Christian A. Naesseth
+- Fredrik Lindsten
+- Thomas B. Schön
 tags:
 - '"Adaptation models"'
 - '"approximate Bayesian filtering"'
